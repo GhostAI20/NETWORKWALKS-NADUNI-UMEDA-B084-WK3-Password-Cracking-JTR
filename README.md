@@ -50,6 +50,8 @@
 
 - Step 03 - Fix:
 ![03-fix](activity-01-kali-terminal/03-fix.png)
+![solution](activity-01-kali-terminal/solution.png)
+
 
 - Step 04 - Cracked:
 ![04-cracked](activity-01-kali-terminal/04-cracked.png)
