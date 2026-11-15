@@ -46,6 +46,7 @@
 
 - Step 02 - Error:
 ![02-error](activity-01-kali-terminal/02-error.png)
+![02-error.1](activity-01-kali-terminal/02-error.1.png)
 
 - Step 03 - Fix:
 ![03-fix](activity-01-kali-terminal/03-fix.png)
